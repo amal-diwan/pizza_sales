@@ -22,7 +22,7 @@ This analysis aims to answer the following:
 
 ## Dashboard
 
-![Dashboard](Pizza Sales Analysis.png)
+![Dashboard](dashboard.png)
 
 ## Data Cleaning & Preparation
 
