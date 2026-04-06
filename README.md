@@ -51,15 +51,15 @@ This analysis aims to answer the following:
 
 ## Key Insights
 
-- 👥 Average of **60 customers per day**  
-- ⏰ Peak hours:
+- Average of **60 customers per day**  
+- Peak hours:
   - Lunch: **12:00 – 13:00**
   - Dinner: **18:00 – 19:00**  
-- 📅 Peak day: **Friday**  
-- 📉 Lowest activity: **Sunday**  
-- 🍕 Best-selling pizza: **BBQ Chicken Pizza**  
-- 📦 Large pizzas account for **38% of total sales**  
-- 📉 Sales decline observed in:
+- Peak day: **Friday**  
+- Lowest activity: **Sunday**  
+- Best-selling pizza: **BBQ Chicken Pizza**  
+- Large pizzas account for **38% of total sales**  
+- Sales decline observed in:
   - September  
   - October  
   - December 
