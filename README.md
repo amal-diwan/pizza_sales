@@ -1,6 +1,6 @@
-# 🍕 Pizza Sales Analysis (SQL + Tableau)
+#  Pizza Sales Analysis (SQL + Tableau)
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates an end-to-end data analysis workflow using SQL and Tableau on a pizza sales dataset.
 
@@ -10,9 +10,7 @@ The project includes:
 - Business insight generation  
 - Interactive dashboard creation in Tableau  
 
----
-
-## 🎯 Business Questions
+## Business Questions
 
 This analysis aims to answer the following:
 
@@ -22,15 +20,11 @@ This analysis aims to answer the following:
 - Which pizzas are the best sellers?  
 - How can the business increase revenue?  
 
----
-
-## 📊 Dashboard
+## Dashboard
 
 ![Dashboard](dashboard.png)
 
----
-
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 - Created working copies of raw tables  
 - Removed duplicate records across all tables  
@@ -39,9 +33,7 @@ This analysis aims to answer the following:
 - Handled null and missing values  
 - Removed irrelevant columns  
 
----
-
-## 📈 Data Analysis
+## Data Analysis
 
 - Designed SQL queries to answer key business questions  
 - Used:
@@ -50,18 +42,14 @@ This analysis aims to answer the following:
   - Subqueries for intermediate analysis  
   - CTEs and window functions (`LAG`) for trend analysis  
 
----
-
-## 📊 Data Visualization
+## Data Visualization
 
 - Imported cleaned data into Tableau  
 - Built individual visualizations for each metric  
 - Combined charts into a single dashboard  
-- Applied consistent formatting and theme  
+- Applied consistent formatting and theme 
 
----
-
-## 🔑 Key Insights
+## Key Insights
 
 - 👥 Average of **60 customers per day**  
 - ⏰ Peak hours:
@@ -74,11 +62,9 @@ This analysis aims to answer the following:
 - 📉 Sales decline observed in:
   - September  
   - October  
-  - December  
+  - December 
 
----
-
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Introduce **lunch and dinner promotions** during peak hours  
 - Offer **Sunday or weekend deals** to boost low-performing days  
@@ -86,13 +72,9 @@ This analysis aims to answer the following:
   - Back-to-school promotions (September)  
   - Halloween promotions (October)  
   - Holiday promotions (December)  
-- Implement a **customer loyalty program** to increase repeat purchases  
+- Implement a **customer loyalty program** to increase repeat purchases 
 
----
-
-## 🧰 Tools
+## Tools
 
 - SQL (MySQL)
 - Tableau
-
-## 📁 Project Structure
